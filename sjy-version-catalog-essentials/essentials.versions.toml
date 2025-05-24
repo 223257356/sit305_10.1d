@@ -1,0 +1,31 @@
+[versions]
+firebase-bom = "33.13.0"
+gms-services = "4.4.2"
+stripe = "21.14.0"
+
+[libraries]
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebase-bom" }
+firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics-ktx" }
+firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics-ktx" }
+firebase-messaging = { group = "com.google.firebase", name = "firebase-messaging" }
+firebase-config = { group = "com.google.firebase", name = "firebase-config" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth-ktx" }
+stripe-android = { group = "com.stripe", name = "stripe-android", version.ref = "stripe" }
+stripe-financial-connections = { group = "com.stripe", name = "financial-connections", version.ref = "stripe" }
+
+[bundles]
+firebase = [
+    "firebase-analytics",
+    "firebase-crashlytics",
+    "firebase-messaging",
+    "firebase-config",
+    "firebase-auth"
+]
+stripe = [
+    "stripe-android",
+    "stripe-financial-connections"
+]
+
+[plugins]
+gms-services = { id = "com.google.gms.google-services", version.ref = "gms-services" }
+crashlytics = { id = "com.google.firebase.crashlytics", version = "3.0.3" }
