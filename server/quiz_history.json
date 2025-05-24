@@ -1,0 +1,220 @@
+{
+  "Ted": [
+    {
+      "topic": "* **UI/UX Design:**",
+      "score": 0,
+      "total_questions": 3,
+      "questions": [
+        {
+          "question": "Which of the following best describes the role of UI/UX designers in mobile app development?",
+          "options": [
+            "They are responsible for creating the overall visual and user experience of the app.",
+            "They focus on the app's functionality and usability.",
+            "They collaborate with developers to ensure the app meets technical specifications.",
+            "They are responsible for creating the app's marketing and promotional materials."
+          ],
+          "correct_answer": "A."
+        },
+        {
+          "question": "What is the primary focus of UI/UX design in mobile app development?",
+          "options": [
+            "Creating the app's layout and structure.",
+            "Ensuring the app is visually appealing and user-friendly.",
+            "Defining the app's branding and color scheme.",
+            "Implementing accessibility features for users with disabilities."
+          ],
+          "correct_answer": "B."
+        },
+        {
+          "question": "Which aspect of UI/UX design is crucial in ensuring user satisfaction?",
+          "options": [
+            "User testing and feedback analysis.",
+            "Designing intuitive and easy-to-use interfaces.",
+            "Creating visually stunning and engaging graphics.",
+            "Implementing clear and concise communication within the app."
+          ],
+          "correct_answer": "A."
+        }
+      ],
+      "user_answers": [
+        "A",
+        "C",
+        "A"
+      ],
+      "timestamp": "2025-05-17T20:45:41.883775"
+    },
+    {
+      "topic": "Usability Testing Techniques",
+      "score": 2,
+      "total_questions": 3,
+      "questions": [
+        {
+          "question": "What is the primary purpose of usability testing?",
+          "options": [
+            "Identifying usability issues in a design.",
+            "Enhancing the aesthetics of a product.",
+            "Optimizing the loading speed of a website.",
+            "Creating a visually appealing user interface."
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which usability testing technique involves asking users to walk through a product or application and provide feedback?",
+          "options": [
+            "User observation",
+            "Eye-tracking",
+            "Cognitive interviewing",
+            "Usability mapping"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which usability testing technique focuses on evaluating the usability of a product or application on multiple devices and operating systems?",
+          "options": [
+            "Usability testing",
+            "Accessibility testing",
+            "Eye-tracking",
+            "Cognitive interviewing"
+          ],
+          "correct_answer": "A"
+        }
+      ],
+      "user_answers": [
+        "B",
+        "A",
+        "A"
+      ],
+      "timestamp": "2025-05-18T11:00:40.678861"
+    },
+    {
+      "topic": "**Quiz Topics for UI/UX Design and Mobile App Design:**",
+      "score": 0,
+      "total_questions": 3,
+      "questions": [
+        {
+          "question": "Which field focuses on the aesthetic design of a product, including typography, color scheme, and layout?",
+          "options": [
+            "UI Design",
+            "UX Design",
+            "Mobile App Design",
+            "Business Design"
+          ],
+          "correct_answer": "A. UI Design"
+        },
+        {
+          "question": "Which area focuses on understanding the user's needs, preferences, and pain points through research and testing?",
+          "options": [
+            "UI Design",
+            "UX Design",
+            "Mobile App Design",
+            "Business Design"
+          ],
+          "correct_answer": "B. UX Design"
+        },
+        {
+          "question": "Which field focuses on designing and developing user-friendly and engaging mobile applications?",
+          "options": [
+            "UI Design",
+            "UX Design",
+            "Mobile App Design",
+            "Business Design"
+          ],
+          "correct_answer": "C. Mobile App Design"
+        }
+      ],
+      "user_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "timestamp": "2025-05-18T11:01:48.289197"
+    },
+    {
+      "topic": "Android Development Basics",
+      "score": 2,
+      "total_questions": 3,
+      "questions": [
+        {
+          "question": "What is an Activity in Android?",
+          "options": [
+            "A UI component",
+            "A database",
+            "A service",
+            "A thread"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which file contains the app manifest?",
+          "options": [
+            "manifest.xml",
+            "AndroidManifest.xml",
+            "app.xml",
+            "config.xml"
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the default layout for Android apps?",
+          "options": [
+            "RelativeLayout",
+            "LinearLayout",
+            "ConstraintLayout",
+            "FrameLayout"
+          ],
+          "correct_answer": "C"
+        }
+      ],
+      "user_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "timestamp": "2025-05-18T12:04:14.191371"
+    },
+    {
+      "id": "Ted_4_20250518120959",
+      "topic": "Mobile App Testing",
+      "score": 3,
+      "total_questions": 3,
+      "questions": [
+        {
+          "question": "What is the purpose of unit testing in mobile app development?",
+          "options": [
+            "Testing individual components in isolation",
+            "Testing the entire app at once",
+            "Testing user interface only",
+            "Testing app performance"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which tool is commonly used for UI testing in Android?",
+          "options": [
+            "Espresso",
+            "JUnit",
+            "Mockito",
+            "Robolectric"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the benefit of automated testing?",
+          "options": [
+            "Faster test execution",
+            "Manual verification",
+            "Visual inspection",
+            "User feedback"
+          ],
+          "correct_answer": "A"
+        }
+      ],
+      "user_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "timestamp": "2025-05-18T12:09:59.434245"
+    }
+  ]
+}

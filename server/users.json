@@ -1,0 +1,22 @@
+{
+  "Jessica": {
+    "password": "000000",
+    "email": "a@a.com",
+    "phone": "0168356966",
+    "interests": [
+      "UI/UX Design",
+      "Mobile App Design"
+    ],
+    "created_at": "2025-05-17T19:29:55.851529"
+  },
+  "Ted": {
+    "password": "99999999",
+    "email": "ted@live.com",
+    "phone": "0422222222",
+    "interests": [
+      "UI/UX Design",
+      "Mobile App Design"
+    ],
+    "created_at": "2025-05-17T19:48:56.681049"
+  }
+}
